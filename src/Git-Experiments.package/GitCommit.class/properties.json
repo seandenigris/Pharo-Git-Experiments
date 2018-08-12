@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "SeanDeNigris 8/12/2018 16:30",
+	"super" : "Object",
+	"category" : "Git-Experiments",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sha1",
+		"author",
+		"authorDate",
+		"committer",
+		"commitDate",
+		"commitMessage",
+		"merge"
+	],
+	"name" : "GitCommit",
+	"type" : "normal"
+}
